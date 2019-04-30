@@ -18,5 +18,7 @@
     "workbench.activityBar.visible": false,
     "workbench.statusBar.feedback.visible": false,
     "workbench.statusBar.visible": false,
-    "workbench.tips.enabled": false
+    "workbench.tips.enabled": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1
 }
