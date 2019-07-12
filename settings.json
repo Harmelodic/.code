@@ -17,7 +17,6 @@
     "terraform.codelens.enabled": false,
     "workbench.activityBar.visible": false,
     "workbench.statusBar.feedback.visible": false,
-    "workbench.statusBar.visible": false,
     "workbench.tips.enabled": false,
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorWidth": 1,
@@ -28,5 +27,7 @@
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "explorer.confirmDelete": false,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "vscode-icons"
 }
