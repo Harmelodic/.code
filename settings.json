@@ -1,5 +1,4 @@
 {
-    "editor.detectIndentation": false,
     "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "none",
     "explorer.confirmDragAndDrop": false,
@@ -27,7 +26,6 @@
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "explorer.confirmDelete": false,
-    "editor.tabSize": 2,
     "workbench.statusBar.visible": false,
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.scrollback": 100000
