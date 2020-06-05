@@ -6,7 +6,6 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "window.restoreWindows": "none",
-    "search.useRipgrep": false,
     "javascript.implicitProjectConfig.experimentalDecorators": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.wordWrap": "off",
@@ -14,7 +13,7 @@
     "gitlens.currentLine.enabled": false,
     "gitlens.codeLens.enabled": false,
     "terraform.codelens.enabled": false,
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "workbench.statusBar.feedback.visible": false,
     "workbench.tips.enabled": false,
     "editor.cursorSmoothCaretAnimation": true,
@@ -28,5 +27,6 @@
     "explorer.confirmDelete": false,
     "workbench.statusBar.visible": false,
     "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.scrollback": 100000
+    "terminal.integrated.scrollback": 100000,
+    "explorer.compactFolders": false,
 }
