@@ -29,4 +29,26 @@
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.scrollback": 100000,
     "explorer.compactFolders": false,
+    "editor.tabSize": 2,
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Debug Jest Unit Tests",
+                "type": "node",
+                "request": "launch",
+                "runtimeArgs": ["--inspect-brk", "${workspaceRoot}/node_modules/.bin/jest", "--runInBand", "--coverage", "false", "--config", "jest.unit.js"],
+                "console": "integratedTerminal",
+                "internalConsoleOptions": "neverOpen"
+            },
+            {
+                "name": "Debug Jest Integration Tests",
+                "type": "node",
+                "request": "launch",
+                "runtimeArgs": ["--inspect-brk", "${workspaceRoot}/node_modules/.bin/jest", "--runInBand", "--coverage", "false", "--config", "jest.integration.js"],
+                "console": "integratedTerminal",
+                "internalConsoleOptions": "neverOpen"
+            }
+        ]
+    }
 }
