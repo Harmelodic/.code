@@ -50,5 +50,20 @@
                 "internalConsoleOptions": "neverOpen"
             }
         ]
-    }
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "yaml.customTags": [
+        "!Equals sequence",
+        "!FindInMap sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!Join sequence",
+        "!Ref",
+        "!Select sequence",
+        "!Split sequence",
+        "!Sub"
+    ]
 }
