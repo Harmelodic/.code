@@ -2,7 +2,6 @@
     "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "none",
     "explorer.confirmDragAndDrop": false,
-    "window.zoomLevel": 0,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "window.restoreWindows": "none",
@@ -65,5 +64,7 @@
         "!Select sequence",
         "!Split sequence",
         "!Sub"
-    ]
+    ],
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single"
 }
