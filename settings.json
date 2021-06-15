@@ -66,5 +66,6 @@
     ],
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
-    "workbench.editor.untitled.hint": "hidden"
+    "workbench.editor.untitled.hint": "hidden",
+    "window.zoomLevel": 1
 }
