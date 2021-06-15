@@ -28,7 +28,6 @@
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.scrollback": 100000,
     "explorer.compactFolders": false,
-    "editor.tabSize": 2,
     "launch": {
         "version": "0.2.0",
         "configurations": [
@@ -66,5 +65,6 @@
         "!Sub"
     ],
     "javascript.preferences.quoteStyle": "single",
-    "typescript.preferences.quoteStyle": "single"
+    "typescript.preferences.quoteStyle": "single",
+    "workbench.editor.untitled.hint": "hidden"
 }
