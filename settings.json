@@ -67,5 +67,6 @@
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
     "workbench.editor.untitled.hint": "hidden",
-    "window.zoomLevel": 1
+    "docker.showStartPage": true,
+    "window.zoomLevel": 0.6
 }
