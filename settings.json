@@ -67,5 +67,8 @@
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
     "workbench.editor.untitled.hint": "hidden",
+    "redhat.telemetry.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "overviewRuler",
     "window.zoomLevel": 1
 }

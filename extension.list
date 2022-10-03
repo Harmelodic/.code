@@ -3,12 +3,13 @@ dawhite.mustache
 dbaeumer.vscode-eslint
 DigitalBrainstem.javascript-ejs-support
 formulahendry.vscode-mysql
+hashicorp.hcl
 hashicorp.terraform
 humao.rest-client
 ms-azuretools.vscode-docker
 msjsdiag.debugger-for-chrome
+redhat.vscode-commons
 redhat.vscode-yaml
 shanoor.vscode-nginx
 techer.open-in-browser
-wholroyd.HCL
 yzhang.markdown-all-in-one
