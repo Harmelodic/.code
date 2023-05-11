@@ -12,9 +12,10 @@
     "gitlens.currentLine.enabled": false,
     "gitlens.codeLens.enabled": false,
     "terraform.codelens.enabled": false,
+    "workbench.activityBar.visible": false,
     "workbench.statusBar.feedback.visible": false,
     "workbench.tips.enabled": false,
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorWidth": 1,
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
@@ -23,6 +24,7 @@
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "explorer.confirmDelete": false,
+    "workbench.statusBar.visible": false,
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.scrollback": 100000,
     "explorer.compactFolders": false,
@@ -65,12 +67,8 @@
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
     "workbench.editor.untitled.hint": "hidden",
-    "docker.showStartPage": true,
-    "window.zoomLevel": 1,
-    "redhat.telemetry.enabled": false,
-    "editor.insertSpaces": false,
-    "git.confirmSync": false,
-    "workbench.statusBar.visible": false,
-    "workbench.activityBar.visible": false,
-    "terminal.integrated.shellIntegration.decorationsEnabled": "never"
+    "redhat.telemetry.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "overviewRuler",
+    "window.zoomLevel": 1
 }
