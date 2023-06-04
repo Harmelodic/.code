@@ -14,7 +14,7 @@
     "terraform.codelens.enabled": false,
     "workbench.statusBar.feedback.visible": false,
     "workbench.tips.enabled": false,
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorWidth": 1,
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
