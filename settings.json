@@ -70,5 +70,8 @@
     "redhat.telemetry.enabled": true,
     "diffEditor.ignoreTrimWhitespace": false,
     "terminal.integrated.shellIntegration.decorationsEnabled": "overviewRuler",
-    "window.zoomLevel": 1
+    "window.zoomLevel": 1,
+    "workbench.editor.empty.hint": "hidden",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false
 }
