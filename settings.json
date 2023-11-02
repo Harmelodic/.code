@@ -12,7 +12,6 @@
     "gitlens.currentLine.enabled": false,
     "gitlens.codeLens.enabled": false,
     "terraform.codelens.enabled": false,
-    "workbench.activityBar.visible": false,
     "workbench.statusBar.feedback.visible": false,
     "workbench.tips.enabled": false,
     "editor.cursorSmoothCaretAnimation": "on",
@@ -66,12 +65,12 @@
     ],
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
-    "workbench.editor.untitled.hint": "hidden",
     "redhat.telemetry.enabled": true,
     "diffEditor.ignoreTrimWhitespace": false,
     "terminal.integrated.shellIntegration.decorationsEnabled": "overviewRuler",
     "window.zoomLevel": 1,
     "workbench.editor.empty.hint": "hidden",
     "window.commandCenter": false,
-    "workbench.layoutControl.enabled": false
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.location": "hidden"
 }
