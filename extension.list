@@ -1,7 +1,7 @@
-Arjun.swagger-viewer
+arjun.swagger-viewer
 dawhite.mustache
 dbaeumer.vscode-eslint
-DigitalBrainstem.javascript-ejs-support
+digitalbrainstem.javascript-ejs-support
 formulahendry.vscode-mysql
 hashicorp.hcl
 hashicorp.terraform
@@ -11,6 +11,7 @@ redhat.vscode-commons
 redhat.vscode-xml
 redhat.vscode-yaml
 shanoor.vscode-nginx
+simonsiefke.svg-preview
 techer.open-in-browser
 vscjava.vscode-java-debug
 yzhang.markdown-all-in-one
