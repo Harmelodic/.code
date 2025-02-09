@@ -85,5 +85,10 @@
         "tag:yaml.org,2002:python/name:material.extensions.emoji.twemoji",
         "tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format",
         "tag:yaml.org,2002:python/object/apply:pymdownx.slugs.slugify mapping"
-    ]
+    ],
+    "markdown.extension.list.indentationSize": "inherit",
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+    "editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.indentSize": "tabSize"
 }
