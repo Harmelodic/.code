@@ -92,5 +92,8 @@
 	"editor.insertSpaces": false,
 	"editor.indentSize": "tabSize",
 	"markdown.extension.tableFormatter.delimiterRowNoPadding": true,
-	"chat.commandCenter.enabled": false
+	"chat.commandCenter.enabled": false,
+	"opa.languageServers": [
+		"regal"
+	]
 }
