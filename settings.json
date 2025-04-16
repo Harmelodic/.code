@@ -90,5 +90,7 @@
     "markdown.extension.tableFormatter.normalizeIndentation": true,
     "editor.detectIndentation": false,
 	"editor.insertSpaces": false,
-	"editor.indentSize": "tabSize"
+	"editor.indentSize": "tabSize",
+	"markdown.extension.tableFormatter.delimiterRowNoPadding": true,
+	"chat.commandCenter.enabled": false
 }
