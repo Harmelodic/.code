@@ -95,5 +95,8 @@
 	"chat.commandCenter.enabled": false,
 	"opa.languageServers": [
 		"regal"
-	]
+	],
+	"workbench.editorAssociations": {
+		"*.svg": "default"
+	}
 }
