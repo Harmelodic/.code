@@ -1,6 +1,6 @@
 # .code
 
-VS Code Config
+My Visual Studio Code config.
 
 ## Automated Usage
 
